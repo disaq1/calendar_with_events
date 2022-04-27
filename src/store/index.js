@@ -25,14 +25,14 @@ export default createStore({
               eventMinutes: 29
           },
           {
-              eventTitle: 'Сделать сё',
+              eventTitle: 'Сделать то',
               eventId: 1,
-              eventType: 'Easy',
+              eventType: 'Hard',
               eventYear: 2022,
               eventMonth: 3,
               eventDay: 26,
-              eventHour: 23,
-              eventMinutes: 59
+              eventHour: 10,
+              eventMinutes: 20
           },
           {
               eventTitle: 'HNY',
@@ -45,14 +45,14 @@ export default createStore({
               eventMinutes: 59
           },
           {
-              eventTitle: 'Сделать то',
+              eventTitle: 'Сделать сё',
               eventId: 3,
-              eventType: 'Hard',
+              eventType: 'Easy',
               eventYear: 2022,
               eventMonth: 3,
               eventDay: 26,
-              eventHour: 10,
-              eventMinutes: 20
+              eventHour: 23,
+              eventMinutes: 59
           },
           {
               eventTitle: 'Title 5',
